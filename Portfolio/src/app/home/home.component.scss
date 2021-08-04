@@ -3,7 +3,19 @@
 }
 #scrollspyHeading2{
     padding-top: 70px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
 }
 #scrollspyHeading3{
     padding-top: 70px;
+}
+
+.skillSection{
+    background-color: rgb(53, 53, 53);
+    padding-bottom: 70px;
 }
